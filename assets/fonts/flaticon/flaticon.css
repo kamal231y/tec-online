@@ -1,0 +1,131 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticona610a610.ttf?219714cdc7de9b2abbfd86b6991b7e12") format("truetype"),
+url("flaticona610a610.woff?219714cdc7de9b2abbfd86b6991b7e12") format("woff"),
+url("flaticona610a610.woff2?219714cdc7de9b2abbfd86b6991b7e12") format("woff2"),
+url("flaticona610a610.eot?219714cdc7de9b2abbfd86b6991b7e12#iefix") format("embedded-opentype"),
+url("flaticona610a610.svg?219714cdc7de9b2abbfd86b6991b7e12#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, 
+i[class*=" flaticon-"]:before,
+span[class^="flaticon-"]:before, 
+span[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-diamond:before {
+    content: "\f101";
+}
+.flaticon-speed:before {
+    content: "\f102";
+}
+.flaticon-trophy:before {
+    content: "\f103";
+}
+.flaticon-target:before {
+    content: "\f104";
+}
+.flaticon-telephone:before {
+    content: "\f105";
+}
+.flaticon-message:before {
+    content: "\f106";
+}
+.flaticon-security:before {
+    content: "\f107";
+}
+.flaticon-headphones:before {
+    content: "\f108";
+}
+.flaticon-search:before {
+    content: "\f109";
+}
+.flaticon-award:before {
+    content: "\f10a";
+}
+.flaticon-appointment:before {
+    content: "\f10b";
+}
+.flaticon-pay:before {
+    content: "\f10c";
+}
+.flaticon-select:before {
+    content: "\f10d";
+}
+.flaticon-shopping-bag:before {
+    content: "\f10e";
+}
+.flaticon-mail:before {
+    content: "\f10f";
+}
+.flaticon-email:before {
+    content: "\f110";
+}
+.flaticon-right-quote:before {
+    content: "\f111";
+}
+.flaticon-telephone-1:before {
+    content: "\f112";
+}
+.flaticon-search-1:before {
+    content: "\f113";
+}
+.flaticon-rating:before {
+    content: "\f114";
+}
+.flaticon-guarantee:before {
+    content: "\f115";
+}
+.flaticon-award-1:before {
+    content: "\f116";
+}
+.flaticon-best-price:before {
+    content: "\f117";
+}
+.flaticon-24-hours:before {
+    content: "\f118";
+}
+.flaticon-team:before {
+    content: "\f119";
+}
+.flaticon-buy-button:before {
+    content: "\f11a";
+}
+.flaticon-smartphone:before {
+    content: "\f11b";
+}
+.flaticon-best:before {
+    content: "\f11c";
+}
+.flaticon-global-services:before {
+    content: "\f11d";
+}
+.flaticon-cleaning:before {
+    content: "\f11e";
+}
+.flaticon-oosouji:before {
+    content: "\f11f";
+}
+.flaticon-cleaning-mop:before {
+    content: "\f120";
+}
+.flaticon-sanitary:before {
+    content: "\f121";
+}
+.flaticon-spray:before {
+    content: "\f122";
+}
+.flaticon-cleaning-tools:before {
+    content: "\f123";
+}
+.flaticon-cleaning-1:before {
+    content: "\f124";
+}
